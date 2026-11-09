@@ -1,13 +1,13 @@
 <h1 align="center">Anton Vynohradov</h1>
 
 <p align="center">
-  <b>Embedded Systems Engineer · Founder of <a href="https://systemfromscratch.github.io/">SystemFromScratch®</a></b><br/>
+  <b>Embedded Systems Engineer · Founder of <a href="https://SystemFromScratch.com/">SystemFromScratch®</a></b><br/>
   Firmware and embedded Linux for connected products:<br/>
   secure, MISRA-compliant and ready for the EU Cyber Resilience Act.
 </p>
 
 <p align="center">
-  <a href="https://systemfromscratch.github.io/"><img src="https://img.shields.io/badge/SystemFromScratch-Website-050b16?style=for-the-badge&logo=googlechrome&logoColor=2f8cff" alt="Website"/></a>
+  <a href="https://SystemFromScratch.com/"><img src="https://img.shields.io/badge/SystemFromScratch-Website-050b16?style=for-the-badge&logo=googlechrome&logoColor=2f8cff" alt="Website"/></a>
   <a href="mailto:avynohradov@systemfromscratch.com?subject=Project%20inquiry"><img src="https://img.shields.io/badge/Email-Get_in_touch-1d5fbf?style=for-the-badge" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/vynohradov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/SystemFromScratch"><img src="https://img.shields.io/badge/SystemFromScratch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub organization"/></a>
@@ -82,7 +82,7 @@ What this means for your product:
 - [**Stepper-Lab**](https://github.com/AntonVynohradov/Stepper-Lab): Scilab/Xcos model of a hybrid stepper motor. Stepper-C is developed and tested against it before it runs on hardware.
 - [**DYNAMIXEL X430 emulator**](https://github.com/AntonVynohradov/DYNAMIXEL-X430-Control-Table-Emulator): your firmware drives any motor, and DynamixelSDK, DYNAMIXEL Wizard and ROS 2 see a genuine X430.
 
-More on the [projects page](https://systemfromscratch.github.io/projects.html). Engineering write-ups, each with a repository that reproduces the numbers it quotes, are on the [articles page](https://systemfromscratch.github.io/articles.html).
+More on the [projects page](https://SystemFromScratch.com/projects.html). Engineering write-ups, each with a repository that reproduces the numbers it quotes, are on the [articles page](https://SystemFromScratch.com/articles.html).
 
 <details>
 <summary><b>Tech stack</b></summary>
@@ -101,7 +101,7 @@ More on the [projects page](https://systemfromscratch.github.io/projects.html). 
 Building a connected product, bringing up a new board, or preparing for the Cyber Resilience Act?
 Tell me about your product, timeline and constraints, and I will reply with a proposal for the first step.
 
-📩 **[avynohradov@systemfromscratch.com](mailto:avynohradov@systemfromscratch.com?subject=Project%20inquiry)** · 🌐 **[systemfromscratch.github.io](https://systemfromscratch.github.io/)** · 💼 **[LinkedIn](https://www.linkedin.com/in/vynohradov)**
+📩 **[avynohradov@systemfromscratch.com](mailto:avynohradov@systemfromscratch.com?subject=Project%20inquiry)** · 🌐 **[SystemFromScratch.com](https://SystemFromScratch.com/)** · 💼 **[LinkedIn](https://www.linkedin.com/in/vynohradov)**
 
 ---
 
