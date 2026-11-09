@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://SystemFromScratch.com/"><img src="https://img.shields.io/badge/SystemFromScratch-Website-050b16?style=for-the-badge&logo=googlechrome&logoColor=2f8cff" alt="Website"/></a>
-  <a href="mailto:avynohradov@systemfromscratch.com?subject=Project%20inquiry"><img src="https://img.shields.io/badge/Email-Get_in_touch-1d5fbf?style=for-the-badge" alt="Email"/></a>
+  <a href="mailto:contact@systemfromscratch.com?subject=Project%20inquiry"><img src="https://img.shields.io/badge/Email-Get_in_touch-1d5fbf?style=for-the-badge" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/vynohradov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/SystemFromScratch"><img src="https://img.shields.io/badge/SystemFromScratch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub organization"/></a>
 </p>
@@ -49,7 +49,7 @@ I can review your current firmware, show you where the gaps are and help you clo
 - **Evidence, not promises.** My open-source libraries below show the standard you get, with public reports and measured numbers.
 
 **How we can start:** a short call about your product, or a fixed-scope code, MISRA or CRA review of your existing firmware.
-📩 [avynohradov@systemfromscratch.com](mailto:avynohradov@systemfromscratch.com?subject=Project%20inquiry)
+📩 [contact@systemfromscratch.com](mailto:contact@systemfromscratch.com?subject=Project%20inquiry)
 
 ## Open-source libraries
 
@@ -101,7 +101,7 @@ More on the [projects page](https://SystemFromScratch.com/projects.html). Engine
 Building a connected product, bringing up a new board, or preparing for the Cyber Resilience Act?
 Tell me about your product, timeline and constraints, and I will reply with a proposal for the first step.
 
-📩 **[avynohradov@systemfromscratch.com](mailto:avynohradov@systemfromscratch.com?subject=Project%20inquiry)** · 🌐 **[SystemFromScratch.com](https://SystemFromScratch.com/)** · 💼 **[LinkedIn](https://www.linkedin.com/in/vynohradov)**
+📩 **[contact@systemfromscratch.com](mailto:contact@systemfromscratch.com?subject=Project%20inquiry)** · 🌐 **[SystemFromScratch.com](https://SystemFromScratch.com/)** · 💼 **[LinkedIn](https://www.linkedin.com/in/vynohradov)**
 
 ---
 
